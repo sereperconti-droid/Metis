@@ -1,0 +1,10 @@
+{
+  "name":"METIS — Piccole scelte. Grandi risultati.",
+  "short_name":"METIS",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#06172f",
+  "theme_color":"#06172f",
+  "lang":"it",
+  "icons":[{"src":"assets/metis-icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
